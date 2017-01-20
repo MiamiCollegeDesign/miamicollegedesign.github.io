@@ -2,15 +2,22 @@
 
 const FUTUREEVENTSLIST = [
     {
+	'title': 'LAB.ID',
+        'link': 'https://www.eventbrite.com/e/product-council-dermasensor-carecloud-tickets-30664948687',
+        'image': 'lifesync.jpg',
+	'date': 'January 24, 2017 at LAB Miami',
+	'description': "Lab.ID is excited to bring New York's The Product Council to Miami on January 24th. Product Council provides startups and existing companies a fresh new outlet for critical feedback, ideation, and improvement of their products. Join product makers, (designers, developers, etc.) and founders to learn valuable lessons and insights from experienced product owners as they dive deep into the challenge, success and failure of product design. This is no demo or pitch, rather it’s an open examination of how to execute an idea. Join us for your opportunity to exchange product stories, network, and learn valuable lessons from seasoned product veterans."
+    },
+];
+
+const PASTEVENTSLIST = [
+    {
 	'title': 'Masters of Tomorrow',
         'link': 'https://www.facebook.com/MOTSummit/',
         'image': 'mot.png',
 	'date': 'November 30, 2016 at LAB Miami',
 	'description': 'Masters of Tomorrow (MOT) Summit is tech and art conferences that takes place in Miami during Art Basel week. It gathers global thought-leaders, artists, technologists and entrepreneurs from around the world to learn, network and inspire each other.'
     },
-];
-
-const PASTEVENTSLIST = [
     {
 	'title': "Nature’s Inventions and Industrial Innovations",
         'link': 'http://MOTSummit.com',
