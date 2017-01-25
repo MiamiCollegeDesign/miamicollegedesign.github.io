@@ -84,8 +84,8 @@ const MCDINVOLVED = [
     },
 
     {
-        'link': './latest-news.html',
-        'title': 'Latest News',
+        'link': './miami2040.html',
+        'title': 'Miami 2040',
         'item': '8'
     },
 
