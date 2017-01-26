@@ -65,7 +65,7 @@ var header = {
         var content = '<div class="content">';
         content += '<div class="float-left header-logo">';
 	content += '<a id="logo-menu" href="./index.html" class="hover">';
-	content += '<img width="70" height="42.5" class="unveil" src="./images/logo-menu.png" data-src="./images/logo-menu.png" data-pin-nopin="true" style="opacity: 1;">';
+	content += '<img width="70" height="70" class="unveil" src="./images/logo-menu.png" data-src="./images/logo-menu.png" data-pin-nopin="true" style="opacity: 1;">';
 	content += '</a>';
 	content += '</div>';
         content += '<div class="hamburger float-right no-desktop">';
