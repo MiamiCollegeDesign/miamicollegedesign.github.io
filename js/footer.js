@@ -68,6 +68,7 @@ const MCDABOUT = [
         'title': 'Catalog',
         'item': '1'
     },
+
 ];
 
 const MCDINVOLVED = [
@@ -87,6 +88,12 @@ const MCDINVOLVED = [
         'link': './miami2040.html',
         'title': 'Miami 2040',
         'item': '8'
+    },
+
+    {
+	'link': './workshop.html',
+        'title': 'Portfolio Workshops',
+        'item': '9'
     },
 
     {
