@@ -201,12 +201,14 @@ h4, h5, h6 {
 
 ol {
   list-style:1;
-  font-size:18px;
+  font-size:125%;
+  line-height:125%;
 }
 
 ul {
   list-style:disc;
-  font-size:18px;
+  font-size:125%;
+  line-height:125%;
 }
 
 ol li {
@@ -221,6 +223,8 @@ ul li {
 
 .indented {
     padding:0px 20px;
+    font-size:100%;
+    line-height:100%;
 }
 
 ul li ul {
