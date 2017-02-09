@@ -49,10 +49,6 @@ body {
   line-height:1;
 }
 
-ol, ul {
-  list-style:none;
-}
-
 blockquote, q {
   quotes:none;
 }
@@ -171,7 +167,7 @@ div > *:last-child {
   margin-bottom:0px !important;
 }
 
-h1, h2, h3, h4, h5, h6, ul, p {
+h1, h2, h3, h4, h5, h6, ul, ol, p {
   margin:25px 0px;
 }
 
@@ -203,13 +199,28 @@ h4, h5, h6 {
   line-height:125%;
 }
 
+ol {
+  list-style:1;
+  font-size:18px;
+}
+
 ul {
   list-style:disc;
+  font-size:18px;
+}
+
+ol li {
+  margin:5px 0px 5px 25px;
+  padding-left:5px;
 }
 
 ul li {
   margin:5px 0px 5px 25px;
   padding-left:5px;
+}
+
+.indented {
+    padding:0px 20px;
 }
 
 ul li ul {
