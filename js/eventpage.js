@@ -2,15 +2,34 @@
 
 const FUTUREEVENTSLIST = [
     {
+	'title': 'MIAMI 2040',
+        'link': 'https://miamicollegeofdesign.com/miami2040',
+        'image': 'miami2040.png',
+	'date': 'Beginning March 4, 2017 at LAB Miami',
+
+	'description': "MIAMI 2040 is an opportunity not just to talk about climate change but to do something about it. Miami College of Design and high school students from South Florida will design solutions for the most daunting challenges for South Florida facing the next generation. At the end of a series of workshops, in which the students will have worked in teams with world-renowned industrial designers, their proposed solutions will be presented in June at the Deep Sea, a two-week public art installation on the shores of Miami Beach, adjacent to the US Conference of Mayors."
+
+    },
+
+    {
+	'title': 'Portfolio Workshop Series',
+        'link': './workshop.html',
+	'date': 'Beginning February 15, 2017 at LAB Miami',
+
+	'description': "As your personal portfolio is <em>the key criterion</em> for admission to the College, we offer a series of workshops on how to develop your portfolio. We suggest you take advantage of this resource, come meet the team, and ask your questions."
+    },
+
+];
+
+const PASTEVENTSLIST = [
+    {
 	'title': 'LAB.ID',
         'link': 'https://www.eventbrite.com/e/product-council-dermasensor-carecloud-tickets-30664948687',
         'image': 'lifesync.jpg',
 	'date': 'January 24, 2017 at LAB Miami',
 	'description': "Lab.ID is excited to bring New York's The Product Council to Miami on January 24th. Product Council provides startups and existing companies a fresh new outlet for critical feedback, ideation, and improvement of their products. Join product makers, (designers, developers, etc.) and founders to learn valuable lessons and insights from experienced product owners as they dive deep into the challenge, success and failure of product design. This is no demo or pitch, rather it’s an open examination of how to execute an idea. Join us for your opportunity to exchange product stories, network, and learn valuable lessons from seasoned product veterans."
     },
-];
 
-const PASTEVENTSLIST = [
     {
 	'title': 'Masters of Tomorrow',
         'link': 'https://www.facebook.com/MOTSummit/',
