@@ -274,8 +274,8 @@ var footer = {
 
         // Copyright
 	content += '<div class="content copyright color-white">';
-        content += '<p class="float-left"><b><span>© 2016 Miami College of Design</span></b></p>';
-        content += '<p class="float-right"><b><span><i class="fa fa-phone"></i> &nbsp; <a href="tel:+1 (800) 848-0398">+1 (800) 848-0398</a></span><span class="no-mobile no-tablet"> &nbsp; &nbsp; &nbsp; </span><span><i class="fa fa-envelope"></i> &nbsp; <a href="mailto:hello@miamicollegeofdesign.com">hello@miamicollegeofdesign.com</a></b> &nbsp; &nbsp; &nbsp; <b><a href="">Last modified 1 November 2016</a></b></span></p>';
+        content += '<p class="float-left"><b><span>© 2017 Miami College of Design</span></b></p>';
+        content += '<p class="float-right"><b><span><i class="fa fa-phone"></i> &nbsp; <a href="tel:+1 (800) 848-0398">+1 (800) 848-0398</a></span><span class="no-mobile no-tablet"> &nbsp; &nbsp; &nbsp; </span><span><i class="fa fa-envelope"></i> &nbsp; <a href="mailto:hello@miamicollegeofdesign.com">hello@miamicollegeofdesign.com</a></b> &nbsp; &nbsp; &nbsp; <b><a href="">Last modified 23 February 2017</a></b></span></p>';
 	content += '</div>';
 
 	content += '</footer>';
