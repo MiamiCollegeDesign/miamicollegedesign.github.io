@@ -7,7 +7,7 @@ const FUTUREEVENTSLIST = [
         'image': 'miami2040.png',
 	'date': 'Beginning March 4, 2017 at LAB Miami',
 
-	'description': "MIAMI 2040 is an opportunity not just to talk about climate change but to do something about it. Miami College of Design and high school students from South Florida will design solutions for the most daunting challenges for South Florida facing the next generation. At the end of a series of workshops, in which the students will have worked in teams with world-renowned industrial designers, their proposed solutions will be presented in June at the Deep Sea, a two-week public art installation on the shores of Miami Beach, adjacent to the US Conference of Mayors."
+	'description': "MIAMI 2040 is an opportunity not just to talk about climate change but to do something about it. Miami College of Design and high school students from South Florida will design solutions for the most daunting challenges for South Florida facing the next generation. At the end of a series of workshops, in which the students will have worked in teams with world-renowned industrial designers, their proposed solutions will be presented in June at the DEEP SEE, a two-week public art installation on the shores of Miami Beach, adjacent to the US Conference of Mayors."
 
     },
 
