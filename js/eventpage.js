@@ -14,11 +14,18 @@ const FUTUREEVENTSLIST = [
     {
 	'title': 'Portfolio Workshop Series',
         'link': './workshop.html',
+        'image': 'portfolio4.jpg',
 	'date': 'Beginning February 15, 2017 at LAB Miami',
 
 	'description': "As your personal portfolio is <em>the key criterion</em> for admission to the College, we offer a series of workshops on how to develop your portfolio. We suggest you take advantage of this resource, come meet the team, and ask your questions."
     },
 
+    {
+	'title': 'Erik Mortenson: The Ghost of Humanism: Rethinking the Subjective Turn in Postwar American Photography',
+	'date': '8 March 2017 5PM at LAB Miami',
+        'image': 'robert-frank.jpeg',
+	'description': 'This talk will examine the use of shadow, blur, graininess, and reflection in the work of the postwar photographers Robert Frank, William Klein, and Ralph Eugene Meatyard as a response to the rhetoric of Cold War containment. In contrast to the more comforting images in Edward Steichen’s popular exhibit The Family of Man, which sought to downplay Cold War anxieties, the photographs of Frank, Klein, and Meatyard challenged viewer expectation by presenting human figures in varying states of disintegration and disappearance. The term ‘subjective’ has long been used to describe a return to personal and private concerns during the postwar years, but discussion has focused mainly on the subjectivity of the artist rather than the viewer. By challenging the sanctity of the human figure, Frank, Klein, and Meatyard force viewers to confront such difficult images and, in the process, re-examine the fears and anxieties that lay dormant during the tense years of the early Cold War.'
+    }
 ];
 
 const PASTEVENTSLIST = [
